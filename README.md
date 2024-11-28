@@ -8,13 +8,12 @@ This repository contains the source code for a responsive, visually appealing Di
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
 This project replicates the look and feel of Discord's homepage. The design focuses on responsiveness and usability across devices. The website includes a hero section, multiple information sections, and a detailed footer.
 
-![Preview of the project](./images/preview.png)
+![Preview of the project](./images/discordClone.png)
 
 ## Features
 - **Responsive Design**: The layout adapts seamlessly to different screen sizes.
